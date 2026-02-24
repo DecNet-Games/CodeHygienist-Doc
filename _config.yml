@@ -1,8 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
-
-url: https://just-the-docs.github.io
+title: Code Hygienist Pro
+description: Automatically detect and safely refactor common Unity performance and architecture issues.
+remote_theme: just-the-docs/just-the-docs
+baseurl: "/CodeHygienist-Doc"
+url: "https://DecNet-Games.github.io"
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Unity Asset Store: "#"
+  DecNet Games: "https://github.com/DecNet-Games"
+
+color_scheme: dark
