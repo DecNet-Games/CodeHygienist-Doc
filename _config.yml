@@ -2,7 +2,11 @@ title: Code Hygienist Pro
 description: Automatically detect and safely refactor common Unity performance and architecture issues.
 remote_theme: just-the-docs/just-the-docs
 baseurl: "/CodeHygienist-Doc"
-url: "https://DecNet-Games.github.io"
+url: "https://decnet-games.github.io"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 
 aux_links:
   Unity Asset Store: "#"
