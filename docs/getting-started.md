@@ -15,6 +15,10 @@ Welcome to the future of cleanly managed Unity projects.
 3. **Previews** the generated fix with a side-by-side diff.
 4. **Applies** the refactor securely using Roslyn AST (Syntax Tree) modification—*not regex-based search-and-replace.*
 
+## The Welcome Window
+
+Upon first installation, the **Welcome Window** will guide you through the initial configuration. You can access it anytime from the top menu: `Tools > Code Hygienist > Welcome Window`. This window provides quick links to the documentation, common scan targets, and the main dashboard.
+
 ## Core Concepts
 
 If you’ve inherited messy prototype code, or just never got around to refactoring:

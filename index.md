@@ -16,6 +16,8 @@ Stop manual refactoring. Eliminate hundreds of warnings automatically.
 
 - **Hundreds of Warnings? Gone.** Turn messy prototype code or inherited client spaghetti into clean, production-ready code.
 - **Auto Refactor Engine:** A safe, Roslyn AST-based transformation engine. It’s not just regex—it intelligently refactors your code (e.g., caching `Camera.main` or `GetComponent()` calls out of update loops).
+- **Visual Rule Builder:** Create your own custom codebase constraints visually without writing a single line of C#.
+- **CI/CD & CLI Support:** Run headless scans in your build pipeline and fail builds based on hygiene score thresholds.
 - **Batch Fix System:** Select entire folders or the whole project and apply rules in bulk, safely backed by an Undo system.
 - **No More "Fear of Breaking":** The Diff Preview window lets you preview side-by-side changes before ever modifying the file on disk.
 
